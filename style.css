@@ -1,0 +1,12 @@
+#img1 {
+    float: right 30%;
+    padding-right: 250px;
+}
+
+button {
+    border: 0;
+    padding: 10px 15px;
+    background-color: rgb(213, 233, 197);
+    border-radius: 7px;
+    font-size: 1.5rem;
+}
